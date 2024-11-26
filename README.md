@@ -1,4 +1,5 @@
 📂 Verse Utilities
+
 Bem-vindo ao repositório Verse Utilities! 🎮 Aqui você encontrará scripts e funcionalidades úteis desenvolvidos em Verse, a linguagem de programação usada no Unreal Editor for Fortnite (UEFN). Este repositório é um compilado de soluções práticas que criei durante meus projetos de desenvolvimento no UEFN, e que podem ser úteis para outros desenvolvedores da comunidade.
 
 📜 Conteúdo
